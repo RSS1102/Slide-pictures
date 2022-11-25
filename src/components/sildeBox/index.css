@@ -1,0 +1,19 @@
+.demo-box{
+    position: relative;
+    color: red;
+    font-size: 25px;
+    width: 300px;
+    height: 100px;
+    overflow: hidden;
+    border: 1px solid black;
+}
+img{
+    width: 300px;
+    height: 200px;
+    /* transform: translate(0,-50px);     */
+}
+.demo-text{
+    position: absolute;
+    left:20px;
+    top:20px;
+}
